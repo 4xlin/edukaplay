@@ -148,7 +148,7 @@ git --version
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/edukaplay.git
+git clone https://github.com/4xlin/edukaplay.git
 cd edukaplay
 ```
 
